@@ -142,7 +142,7 @@ plt.show()
 ```
 
 
-![png](NarrativeNotebookFinal_files/NarrativeNotebookFinal_9_0.png)
+![png](/images/NarrativeNotebookFinal_files/NarrativeNotebookFinal_9_0.png)
 
 
 ####  2A. What are the most popular movie genres online? 
@@ -174,7 +174,7 @@ plt.show()
 ```
 
 
-![png](NarrativeNotebookFinal_files/NarrativeNotebookFinal_13_0.png)
+![png](/images/NarrativeNotebookFinal_files/NarrativeNotebookFinal_13_0.png)
 
 
 #### Question 2B. Is popularity a good proxy for box office return? What about return on investment?
@@ -193,7 +193,7 @@ plt.show()
 ```
 
 
-![png](NarrativeNotebookFinal_files/NarrativeNotebookFinal_15_0.png)
+![png](/images/NarrativeNotebookFinal_files/NarrativeNotebookFinal_15_0.png)
 
 
 
@@ -212,7 +212,7 @@ plt.show()
 ```
 
 
-![png](NarrativeNotebookFinal_files/NarrativeNotebookFinal_16_0.png)
+![png](/images/NarrativeNotebookFinal_files/NarrativeNotebookFinal_16_0.png)
 
 
 
@@ -229,7 +229,7 @@ plt.show()
 ```
 
 
-![png](NarrativeNotebookFinal_files/NarrativeNotebookFinal_17_0.png)
+![png](/images/NarrativeNotebookFinal_files/NarrativeNotebookFinal_17_0.png)
 
 
 
@@ -246,7 +246,7 @@ plt.show()
 ```
 
 
-![png](NarrativeNotebookFinal_files/NarrativeNotebookFinal_18_0.png)
+![png](/images/NarrativeNotebookFinal_files/NarrativeNotebookFinal_18_0.png)
 
 
 #### Question 3: Is production budget a good driver of box office return? What about return on investment?
@@ -266,7 +266,7 @@ plt.show()
 ```
 
 
-![png](NarrativeNotebookFinal_files/NarrativeNotebookFinal_20_0.png)
+![png](/images/NarrativeNotebookFinal_files/NarrativeNotebookFinal_20_0.png)
 
 
 
@@ -283,7 +283,7 @@ plt.show()
 ```
 
 
-![png](NarrativeNotebookFinal_files/NarrativeNotebookFinal_21_0.png)
+![png](/images/NarrativeNotebookFinal_files/NarrativeNotebookFinal_21_0.png)
 
 
 #### 4: What release month generate the best profits domestically?
@@ -318,7 +318,7 @@ plt.show()
 ```
 
 
-![png](NarrativeNotebookFinal_files/NarrativeNotebookFinal_25_0.png)
+![png](/images/NarrativeNotebookFinal_files/NarrativeNotebookFinal_25_0.png)
 
 
 #### 4B: What release month generate the best profits internationally?
@@ -341,7 +341,7 @@ plt.show()
 ```
 
 
-![png](NarrativeNotebookFinal_files/NarrativeNotebookFinal_27_0.png)
+![png](/images/NarrativeNotebookFinal_files/NarrativeNotebookFinal_27_0.png)
 
 
 #### Question 5. What Studios have the Best Box Office Returns?
@@ -366,7 +366,7 @@ plt.show()
 ```
 
 
-![png](NarrativeNotebookFinal_files/NarrativeNotebookFinal_29_0.png)
+![png](/images/NarrativeNotebookFinal_files/NarrativeNotebookFinal_29_0.png)
 
 
 
@@ -387,7 +387,7 @@ plt.show()
 ```
 
 
-![png](NarrativeNotebookFinal_files/NarrativeNotebookFinal_30_0.png)
+![png](/images/NarrativeNotebookFinal_files/NarrativeNotebookFinal_30_0.png)
 
 
 
