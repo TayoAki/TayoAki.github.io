@@ -1,13 +1,13 @@
 ---
 title: "Flatiron Data Wrangling Project"
-date: 2019-07-28
+date: 2018-07-28
 tags: [data wrangling, data science, messy data]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
-![](figure/furious7.jpg)
+![](/images/furious7.jpg)
 
 # What drives movie profitability?
 Tayo Akigbogun and Michelle Kim
@@ -20,7 +20,7 @@ We examined the characteristics of the most profitable movies from 2010-2018 to 
 
 ### Executive Summary: 
 
-![Avengers_Infinity_War_poster.jpg](figure/Avengers_Infinity_War_poster.jpg) 
+![Avengers_Infinity_War_poster.jpg](/images/Avengers_Infinity_War_poster.jpg) 
 
 1. Action and Adventure films are the most profitable genres, drive by international profits. These genres easily transcend cultural context. 
 
