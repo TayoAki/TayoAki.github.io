@@ -1,6 +1,6 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
+title: "Flatiron Data Wrangling Project"
+date: 2019-07-28
 tags: [data wrangling, data science, messy data]
 header:
   image: "/images/furious7.jpg"
