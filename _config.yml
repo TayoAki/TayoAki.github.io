@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Tayo Akigbogun"
-  avatar           : "/images/IMG-5125.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/IMG-5125.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "ATL / D.C. "
   email            :
